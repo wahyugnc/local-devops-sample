@@ -4,4 +4,4 @@ services:
       web:
           image: static_app
           ports:
-            - "80:80"
+            - "8081:8081"
